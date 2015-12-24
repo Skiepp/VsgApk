@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VsgApp</string>
+    <string name="FIRST_ACCESS">first_access</string>
+    <string name="PHP_LOGIN">http://www.villasangiuseppe.it/app/login/login.php</string>
+    <string name="PHP_PLASMA">http://www.villasangiuseppe.it/app/plasma/getImg.php</string>
+    <string name="PHP_GAZZETTA">http://www.villasangiuseppe.it/app/gazzetta/getGazzetta.php</string>
+</resources>
